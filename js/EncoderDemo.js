@@ -167,7 +167,7 @@ function saveRecording(blob) {
              "<audio controls src='" + url + "'></audio> " +
              time +
              " <a class='btn btn-default' href='" + url +
-                  "' download='recording.wav'>" +
+                  "' download='recording.mp3'>" +
              "Save...</a> " +
              "<button class='btn btn-danger' recording='" +
                       url + "'>Delete</button>" +
